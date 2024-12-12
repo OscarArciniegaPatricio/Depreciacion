@@ -1,0 +1,223 @@
+---
+title: "**Exposición**"
+author: "Angel Sinai Reyes Ferreyra <br>
+         Yoselin Castañeda Ayllon <br>
+         Dana Yuval Reyes González <br>
+         Stephani Olvera Chávez <br>
+         Guadalupe Montserrat Ramirez Mendoza <br>
+         Oscar  Arciniega Patricio <br>
+         Karla Galilea Suárez Esquivel <br>
+         Sergio Díaz González <br><br>"
+format: 
+ revealjs:
+   theme: sky
+   background-transition: fade
+   slide-number: true
+   margin: 0.1
+   width: 100%
+   height: 100%
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{=html}
+<style>
+ p {
+ text-align: justify;
+}
+</style>
+```
+## **Certificados de depósito e inversiones a plazo en los bancos: conceptos, funcionamiento y tasas de interés**
+
+En el mundo financiero, existen múltiples opciones para hacer crecer nuestros ahorros de manera segura. Dos de las más comunes son los Certificados de Depósito (CD) y las Inversiones a Plazo. Ambas herramientas permiten obtener rendimientos a partir de nuestros depósitos en el banco, generando intereses que se acumulan con el tiempo. Sin embargo, para comprender su funcionamiento y evaluar cuál opción es la más adecuada para nuestras necesidades, es fundamental entender los conceptos básicos de tasas de interés y su aplicación en distintos contextos.
+
+A continuación, se explica detalladamente qué son los Certificados de Depósito (CD) y las Inversiones a Plazo, cómo funcionan y cómo se aplican las tasas de interés activa y pasiva, utilizando la fórmula del interés simple para realizar cálculos.
+
+## **¿Qué es un Certificado de Depósito (CD)?**
+
+Un certificado de depósito (CD) es producto financiero que ofrecen los bancos
+
+Es una herramienta de bajo riesgo que puede aumentar el monto que gana por interés, y al mismo tiempo mantener su dinero invertido de una manera relativamente segura.
+
+Al igual que las cuentas de ahorros, los certificados de depósito (CD) son considerados de bajo riesgo porque están asegurados por la Corporación Federal de Seguro de Depósitos (Federal Deposit Insurance Corporation, o FDIC) hasta por \$250,000. Sin embargo, los certificados de depósito (CD) generalmente permiten que sus ahorros crezcan más rápido de lo que lo harían en una cuenta de ahorros.
+
+## **Cómo funcionan los certificados de depósito (CD)**
+
+Depositamos el dinero en un banco por un periodo fijo (generalmente llamado plazo o duración), el banco paga una tasa de interés fija que típicamente es más alta que las tasas que ofrecen las cuentas de ahorros. Cuando se cumple el plazo, o cuando vence el certificado de depósito (CD), le regresan el dinero que depositó (el capital) más cualquier interés que haya acumulado.
+
+Si necesita acceso a los fondos antes de que termine el plazo del certificado de depósito (CD), estará sujeto a una penalización por retiro anticipado de fondos, la cual puede reducir significativamente el interés que ganó con el certificado de depósito (CD).
+
+## **Interés compuesto:**
+
+Al igual que las cuentas de ahorros, los certificados de depósito (CD) ganan interés compuesto, lo que significa que periódicamente, el interés que usted gana se agrega al capital. Luego, esa nueva cantidad total gana su propio interés, y así sucesivamente.
+
+## **Cómo elegir un certificado de depósito (CD)**
+
+Existen diferentes factores a tomar en cuenta al elegir un certificado de depósito (CD). Primero, ¿para cuándo necesita el dinero? Si lo necesita pronto, considere un certificado de depósito (CD) con un plazo más corto o un certificado de depósito (CD) que ofrezca opciones sin penalizaciones. Pero si está ahorrando para algo dentro de cinco años, un certificado de depósito (CD) con un plazo mayor y una tasa más alta podrían beneficiarle más. Es importante que revise con atención las características de los certificados de depósito (CD) que está considerando para encontrar el que cumpla con sus necesidades.
+
+Además, tome en cuenta el ámbito económico. Si parece que las tasas de interés podrían subir, o si quiere abrir varios certificados de depósito (CD), los certificados de depósito (CD) escalonados podrían ser una buena opción.
+
+## **Ventajas de los Certificados de Depósito**
+
+-   Hay tres ventajas de los CD, primero, sus fondos están seguros, en el caso de Estados Unidos la Federal Deposit Insurance Corporation asegura Certificados de Depósito hasta por \$ 250,000 dólares. El gobierno federal garantiza que nunca perderá su capital, por esa razón, tienen menos riesgo que los bonos, acciones u otras inversiones más volátiles.
+
+-   En segundo lugar, ofrecen tasas de interés más altas que las cuentas corrientes y de ahorro que generan intereses, también ofrecen tasas de interés más altas que otras inversiones seguras, como cuentas del mercado monetario o fondos del mercado monetario.
+
+-   Puede darse una vuelta por la mejor tarifa, los bancos pequeños ofrecerán mejores tasas porque necesitan los fondos. Los bancos solo en línea ofrecerán tasas más altas que los bancos tradicionales porque sus costos son más bajos. Además, encontrará tasas más altas de lo habitual si deposita una cantidad considerable de dinero en efectivo en forma de CD Jumbo.
+
+## **Desventajas de los Certificados de Depósito**
+
+-   Los Certificados de Depósito tienen tres desventajas, la principal desventaja es que su dinero está atado durante la vigencia del certificado. Usted paga una multa si necesita retirar su dinero antes de que termine el plazo. Sin embargo, hay varios tipos de CD que brindan cierta flexibilidad , así que no olvide preguntarle a su banco sobre las opciones.
+
+-   La segunda desventaja es que podría perder oportunidades de inversión que ocurren mientras su dinero está atado, por ejemplo, corre el riesgo de que las tasas de interés suban en otros productos durante su plazo. Si parece que las tasas de interés están subiendo, puede obtener un CD sin penalización, esto le permite recuperar su dinero sin cargo en cualquier momento después de los primeros seis días. Pagan más que un mercado monetario, pero menos que un CD normal.
+
+-   El tercer problema es que los CD no pagan lo suficiente para mantenerse al día con la tasa de inflación. Si solo invierte en CD, perderá su nivel de vida con el tiempo. La mejor manera de adelantarse a la inflación es invirtiendo en acciones, pero eso es arriesgado, podría perder su inversión total. Podría obtener un rendimiento ligeramente más alto sin riesgo con los valores o bonos protegidos contra la inflación, su desventaja es que perderá dinero si hay deflación.
+
+## **¿Qué sucede si retiro mi dinero antes del vencimiento?**
+
+Si retiras tu dinero antes del vencimiento del certificado de depósito:
+
+-⁠ ⁠Puedes enfrentar penalizaciones por retirada anticipado.
+
+-⁠ ⁠Posiblemente perderás parte o todo el interés ganado.
+
+-⁠ ⁠Deberás pagar una multa o penalización según las condiciones del contrato.
+
+-⁠ ⁠El monto principal puede no estar disponible inmediatamente.
+
+Recuerda revisar las condiciones específicas de tu certificado de depósito con tu institución financiera para entender mejor los términos y condiciones aplicables.
+
+## **Inversiones a Plazo Fijo**
+
+Las Inversiones a Plazo Fijo son muy similares a los Certificados de Depósito. Implican el depósito de una cantidad de dinero por un tiempo específico a cambio de una tasa de interés. La principal diferencia radica en la flexibilidad que ofrecen algunos plazos fijos en cuanto a la posibilidad de renovación automática o retiro anticipado en ciertos casos, aunque esto puede implicar penalidades (Santander, 2023).
+
+## **Fórmula del Interés Simple**
+
+Para comprender el cálculo de los rendimientos generados por los Certificados de Depósito y las Inversiones a Plazo en los ejemplos practicos de esta exposicion, se utiliza la fórmula del interés simple, que es:
+
+Formula: $VF=VA\cdot[1+(r\cdot t)]$
+
+Donde:
+
+**VF**: es el valor futuro (lo que se recibirá al final del plazo).
+
+**VA:** es el valor actual o principal (la cantidad que se deposita inicialmente).
+
+**r:** es la tasa de interés (en forma decimal).
+
+**t:** es el tiempo, expresado en años.
+
+Esta fórmula nos permite calcular el valor futuro de una inversión cuando se aplica una tasa de interés simple, que es el tipo de interés más común en este tipo de productos financieros de corto plazo.
+
+## **Ejemplo Práctico**
+
+Imaginemos que invertimos \$10,000 en un CD a 1 año, con una tasa de interés anual del 5%.
+
+**VA** = 10,000
+
+**r** = 0.05 (5%)
+
+**t** = 1 año
+
+```{r}
+library(htmltools)
+library(ggplot2)
+library(knitr)
+# Definimos datos de entrada
+VP=10000 # Valor presente
+r=0.05  # Tasa de interes
+t=1  # Tiempo
+VF=VP*(1+(r*t)) # Calculamos el valor futuro conforme ecuación
+
+HTML(paste("<span style='font-weight:bold; font-size:40px;'> El valor futuro del prestamo es:$", VF, "</span><br><br>"))
+```
+
+## **Tasa Activa y Tasa Pasiva**
+
+### **Tasa Activa**
+
+La tasa activa es el tipo de interés que los bancos cobran a sus clientes por los préstamos o créditos. Este interés es más alto que la tasa pasiva porque es una fuente de ingresos para los bancos. La tasa activa incluye, además de los costos operativos del banco, el riesgo de impago que el banco asume al prestar dinero (Banco Central del país, 2020).
+
+### **Tasa Pasiva**
+
+La tasa pasiva es la que los bancos pagan a los ahorradores o inversionistas por mantener su dinero depositado en la institución. Este es el tipo de interés que se aplica a los productos de inversión como los Certificados de Depósito o las cuentas de ahorro. Generalmente, la tasa pasiva es menor que la tasa activa, ya que el banco obtiene un margen de ganancia a partir de esta diferencia (Banco Central del país, 2020).
+
+## **Aplicación de la Fórmula de Interés Simple Para el Certificado de Depósito:**
+
+Supongamos que tienes un Certificado de Depósito de \$20,000 con una tasa pasiva anual del 4% y un plazo de 2 años. Usamos la fórmula del interés simple para calcular cuánto recibirás al final del plazo:
+
+**VA** = 20,000
+
+**r** = 0.04
+
+**t** = 2 años
+
+```{r}
+# Definimos datos de entrada
+VP=20000 # Valor presente
+r=0.04  # Tasa de interes
+t=2  # Tiempo
+
+VF=VP*(1+(r*t)) # Calculamos el valor futuro conforme ecuación
+HTML(paste("<span style='font-weight:bold; font-size:40px;'> El valor futuro del prestamo es:$", VF, "</span><br><br>"))
+```
+
+En este caso, al cabo de dos años, recibirías \$21,600. Esto significa que habrías ganado \$1,600 en intereses por tu inversión.
+
+## **Para un Préstamo:**
+
+Ahora consideremos un préstamo de \$15,000 con una tasa activa del 7% anual, y un plazo de 3 años. Aquí, la fórmula de interés simple también es útil para calcular cuánto se deberá pagar al final del plazo.
+
+**VA** = 15,000
+
+**r** = 0.07
+
+**t** = 3 años
+
+```{r}
+# Definimos datos de entrada
+VP=15000 # Valor presente
+r=0.07  # Tasa de interes
+t=3  # Tiempo
+
+VF=VP*(1+(r*t)) # Calculamos el valor futuro conforme ecuación
+
+HTML(paste("<span style='font-weight:bold; font-size:40px;'> El valor futuro del prestamo es:$", VF, "</span><br><br>"))
+```
+
+Al final del plazo, el monto total a devolver sería de \$18,150, lo que incluye los intereses generados por el préstamo.
+
+## **Diferencias entre ciertificada de deposito**
+
+### Objetivo y Funcionamiento
+
+-   Los certificados de depósito (CD) son obligaciones a corto plazo de deuda emitidos por instituciones financieras como bancos, asociaciones de ahorro y préstamo y cooperativas de crédito.
+-   Su objetivo es aumentar el monto que ganas por interés, manteniendo tu dinero invertido de manera relativamente segura.
+-   Las inversiones a plazo, por otro lado, pueden referirse a una variedad de opciones, como bonos corporativos o letras del tesoro, que involucran préstamos a largo plazo a corporaciones o gobiernos.
+
+## **Plazo y Flexibilidad**
+
+-   Los certificados de depósito suelen tener plazos fijos, que pueden variar desde unos meses hasta varios años.
+-   Si necesitas acceso a tus fondos antes de que termine el plazo, estarás sujeto a una penalización por retiro anticipado .
+-   Las inversiones a plazo pueden tener plazos más largos, desde 5 hasta 30 años, y pueden ser más flexibles en términos de reembolso .
+
+## **Rendimiento y Riesgo**
+
+-   Los certificados de depósito ofrecen una tasa de interés fija, generalmente más alta que las cuentas de ahorros.
+-   Las inversiones a plazo pueden ofrecer rendimientos más altos, pero también conllevan un mayor riesgo, especialmente si se trata de bonos corporativos.
+
+## **Conclusión**
+
+Tanto los Certificados de Depósito como las Inversiones a Plazo son opciones seguras y predecibles para hacer crecer nuestro dinero, con la ventaja de que los rendimientos están garantizados. La diferencia entre la tasa activa y la tasa pasiva permite a los bancos generar ingresos, mientras que los ahorradores e inversionistas reciben un retorno por su dinero(Banco Central del país, 2020).
+
+La fórmula de interés simple es una herramienta valiosa para calcular el rendimiento de estas inversiones y conocer el valor futuro de los fondos invertidos. Al analizar diferentes opciones, es importante tener en cuenta tanto las tasas de interés como los plazos, ya que estos factores impactarán directamente en los rendimientos obtenidos.
+
+## Referencias
+
+Banco Central del país. (2020). Informe de tasas de interés y condiciones financieras. Recuperado de http://www.bancocentral.org
+
+Santander. (2023). Qué es una inversión a plazo fijo y cómo funciona. https://www.santander.com/finanzas/inversion-a- plazo
